@@ -1,0 +1,41 @@
+{
+  "kind": "singleType",
+  "collectionName": "menu_icons",
+  "info": {
+    "singularName": "menu-icon",
+    "pluralName": "menu-icons",
+    "displayName": "Menu Logo",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "menu_logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "menu_title": {
+      "type": "string"
+    },
+    "favicon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "page_title": {
+      "type": "string"
+    }
+  }
+}

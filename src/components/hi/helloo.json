@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_hi_helloos",
+  "info": {
+    "displayName": "helloo",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "heeee": {
+      "type": "string"
+    },
+    "hrsgdsdg": {
+      "displayName": "try",
+      "type": "component",
+      "repeatable": true,
+      "component": "tring.try"
+    }
+  }
+}

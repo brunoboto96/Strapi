@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_tring_tries",
+  "info": {
+    "displayName": "try",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "sup": {
+      "type": "biginteger"
+    }
+  }
+}

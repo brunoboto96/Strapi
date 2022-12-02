@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "menus",
+  "info": {
+    "singularName": "menu",
+    "pluralName": "menus",
+    "displayName": "Menu",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tab_name": {
+      "type": "string"
+    },
+    "tab_link": {
+      "type": "string"
+    }
+  }
+}

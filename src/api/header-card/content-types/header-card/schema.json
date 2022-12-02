@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "header_cards",
+  "info": {
+    "singularName": "header-card",
+    "pluralName": "header-cards",
+    "displayName": "Tour Stops",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "card_images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "videos"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
