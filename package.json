@@ -15,7 +15,14 @@
     "@strapi/plugin-users-permissions": "4.1.9",
     "@strapi/provider-upload-cloudinary": "4.1.9",
     "@strapi/strapi": "4.1.9",
-    "pg": "8.7.3"
+    "pg": "8.7.3",
+    "@exfabrica/strapi-plugin-awesome-help": "^1.0.8",
+    "@vscode/sqlite3": "^5.0.8",
+    "better-sqlite3": "7.4.6",
+    "knex": "^0.95.15",
+    "strapi-plugin-colorpicker": "^1.0.35",
+    "strapi-plugin-generate-schema": "^0.0.1",
+    "strapi-plugin-passwordless": "^4.0.8"
   },
   "author": {
     "name": "A Strapi developer"
