@@ -20,7 +20,6 @@
     "@vscode/sqlite3": "^5.0.8",
     "better-sqlite3": "7.4.6",
     "knex": "^0.95.15",
-    "strapi-plugin-colorpicker": "^1.0.35",
     "strapi-plugin-generate-schema": "^0.0.1",
     "strapi-plugin-passwordless": "^4.0.8"
   },
@@ -31,7 +30,7 @@
     "uuid": "35d7a084-3088-4d0b-869e-f503693ee8e5"
   },
   "engines": {
-    "node": ">=12.x.x <=14.x.x",
+    "node": ">=12.x.x <=16.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
